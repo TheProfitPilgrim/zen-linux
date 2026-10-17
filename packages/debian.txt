@@ -1,0 +1,11 @@
+# Intentional top-level APT packages installed so far
+# Install selectively: sudo apt install $(grep -v '^#' packages/debian.txt | xargs)
+# Note: This list does not include Debian installer-selected packages or transitive dependencies.
+xorg
+i3-wm
+i3status
+lightdm
+alacritty
+spice-vdagent
+git
+xinput
