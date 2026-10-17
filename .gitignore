@@ -1,0 +1,13 @@
+# Zen Linux — local wallpaper images
+# Keep theme scripts and SOURCES.md in Git.
+
+profiles/*/wallpapers/*.jpg
+profiles/*/wallpapers/*.jpeg
+profiles/*/wallpapers/*.png
+profiles/*/wallpapers/*.webp
+profiles/*/wallpapers/*.gif
+
+# Local editor and OS files
+.DS_Store
+*.swp
+*.swo
